@@ -98,6 +98,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [![React][React.js]][React-url]
 * [![JavaScript][JavaScript.js]][JavaScript-url]
 * [![PostgreSQL][PostgreSQL.js]][PostgreSQL-url]
+* [![ExpressJS][ExpressJS.js]][ExpressJS-url]
 <!-- * [![Vue][Vue.js]][Vue-url] -->
 <!-- * [![Angular][Angular.io]][Angular-url] -->
 <!-- * [![Svelte][Svelte.dev]][Svelte-url] -->
@@ -253,3 +254,5 @@ Project Link: [https://github.com/procrastian/repo_name](https://github.com/proc
 [JavaScript-url]: https://www.javascript.com/
 [PostgreSQL.js]: https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1
 [PostgreSQL-url]: https://www.postgresql.org/
+[ExpressJS.js]: https://img.shields.io/badge/ExpressJS-20232A?style=for-the-badge&logo=express&logoColor=000000
+[ExpressJS-url]: https://expressjs.com/
