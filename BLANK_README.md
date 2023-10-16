@@ -99,6 +99,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [![JavaScript][JavaScript.js]][JavaScript-url]
 * [![PostgreSQL][PostgreSQL.js]][PostgreSQL-url]
 * [![ExpressJS][ExpressJS.js]][ExpressJS-url]
+* [![HTML5][HTML5.js]][HTML5-url]
+* [![CSS3][CSS3.js]][CSS3-url]
+* [![nodejs][nodejs.js]][nodejs-url]
 <!-- * [![Vue][Vue.js]][Vue-url] -->
 <!-- * [![Angular][Angular.io]][Angular-url] -->
 <!-- * [![Svelte][Svelte.dev]][Svelte-url] -->
@@ -256,3 +259,9 @@ Project Link: [https://github.com/procrastian/repo_name](https://github.com/proc
 [PostgreSQL-url]: https://www.postgresql.org/
 [ExpressJS.js]: https://img.shields.io/badge/ExpressJS-20232A?style=for-the-badge&logo=express&logoColor=000000
 [ExpressJS-url]: https://expressjs.com/
+[HTML5.js]: https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26
+[HTML5-url]: https://html.com/
+[CSS3.js]: https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6
+[CSS3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[nodejs.js]: https://img.shields.io/badge/node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933
+[nodejs-url]: https://nodejs.org/en
