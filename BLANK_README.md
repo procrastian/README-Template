@@ -94,9 +94,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-<!-- * [![Next][Next.js]][Next-url] -->
 * [![React][React.js]][React-url]
 * [![JavaScript][JavaScript.js]][JavaScript-url]
+* [![Typescript][Typescript.js]][Typescript-url]
 * [![PostgreSQL][PostgreSQL.js]][PostgreSQL-url]
 * [![ExpressJS][ExpressJS.js]][ExpressJS-url]
 * [![HTML5][HTML5.js]][HTML5-url]
@@ -104,12 +104,17 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [![Nodejs][Nodejs.js]][Nodejs-url]
 * [![Jasmine][Jasmine.js]][Jasmine-url]
 * [![Prisma][Prisma.js]][Prisma-url]
+  
+<!-- * [![EXM][EXM.js]][EXM-url] -->
+  
+<!-- * [![Next][Next.js]][Next-url] -->
 <!-- * [![Vue][Vue.js]][Vue-url] -->
 <!-- * [![Angular][Angular.io]][Angular-url] -->
 <!-- * [![Svelte][Svelte.dev]][Svelte-url] -->
 <!-- * [![Laravel][Laravel.com]][Laravel-url] -->
 <!-- * [![Bootstrap][Bootstrap.com]][Bootstrap-url] -->
 <!-- * [![JQuery][JQuery.com]][JQuery-url] -->
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,6 +230,31 @@ Project Link: [https://github.com/procrastian/repo_name](https://github.com/proc
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[JavaScript.js]: https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript
+[JavaScript-url]: https://www.javascript.com/
+[PostgreSQL.js]: https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1
+[PostgreSQL-url]: https://www.postgresql.org/
+[ExpressJS.js]: https://img.shields.io/badge/ExpressJS-20232A?style=for-the-badge&logo=express&logoColor=000000
+[ExpressJS-url]: https://expressjs.com/
+[HTML5.js]: https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26
+[HTML5-url]: https://html.com/
+[CSS3.js]: https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6
+[CSS3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[Nodejs.js]: https://img.shields.io/badge/node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933
+[Nodejs-url]: https://nodejs.org/en
+[Jasmine.js]: https://img.shields.io/badge/Jasmine-20232A?style=for-the-badge&logo=jasmine&logoColor=8A4182
+[Jasmine-url]: https://jasmine.github.io/
+[Prisma.js]: https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma&logoColor=2D3748
+[Prisma-url]: https://www.prisma.io/
+[Typescript.js]: https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6
+[Typescript-url]: https://www.typescriptlang.org/
+
+<!-- [EXM.js]: https://img.shields.io/badge/EXM-20232A?style=for-the-badge&logo=EXMt&logoColor=000000
+[EXM-url]: https://www.EXM.org/ -->
+
 <!-- [contributors-shield]: https://img.shields.io/github/contributors/procrastian/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/procrastian/repo_name/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/procrastian/repo_name.svg?style=for-the-badge
@@ -252,22 +282,3 @@ Project Link: [https://github.com/procrastian/repo_name](https://github.com/proc
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com -->
-
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[JavaScript.js]: https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript
-[JavaScript-url]: https://www.javascript.com/
-[PostgreSQL.js]: https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1
-[PostgreSQL-url]: https://www.postgresql.org/
-[ExpressJS.js]: https://img.shields.io/badge/ExpressJS-20232A?style=for-the-badge&logo=express&logoColor=000000
-[ExpressJS-url]: https://expressjs.com/
-[HTML5.js]: https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26
-[HTML5-url]: https://html.com/
-[CSS3.js]: https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6
-[CSS3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[Nodejs.js]: https://img.shields.io/badge/node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933
-[Nodejs-url]: https://nodejs.org/en
-[Jasmine.js]: https://img.shields.io/badge/Jasmine-20232A?style=for-the-badge&logo=jasmine&logoColor=8A4182
-[Jasmine-url]: https://jasmine.github.io/
-[Prisma.js]: https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma&logoColor=2D3748
-[Prisma-url]: https://www.prisma.io/
