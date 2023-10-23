@@ -64,6 +64,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 - [![Nodejs][Nodejs.js]][Nodejs-url]
 - [![Jasmine][Jasmine.js]][Jasmine-url]
 - [![Prisma][Prisma.js]][Prisma-url]
+- [![MaterialUI][MaterialUI.js]][MaterialUI-url]
 
 <!-- * [![EXM][EXM.js]][EXM-url] -->
 
@@ -167,3 +168,5 @@ Project Link: [https://github.com/procrastian/repo_name](https://github.com/proc
 [Prisma-url]: https://www.prisma.io/
 [Typescript.js]: https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6
 [Typescript-url]: https://www.typescriptlang.org/
+[MaterialUI.js]: https://img.shields.io/badge/mui-20232A?style=for-the-badge&logo=mui&logoColor=007FFF
+[MaterialUI-url]: https://mui.com/
